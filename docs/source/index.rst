@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Anh Quân
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Anh Quân <https://idcredit.org/author/anhquan/>`_ CEO của FM88, là một nhà lãnh đạo tài ba với tầm nhìn chiến lược và sự đam mê đổi mới trong lĩnh vực giải trí trực tuyến. Dưới sự dẫn dắt của Anh Quân, FM88 đã trở thành một trong những nền tảng chơi game trực tuyến hàng đầu, nổi bật với hệ thống trò chơi đa dạng, giao diện thân thiện, và dịch vụ khách hàng chuyên nghiệp.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với nhiều năm kinh nghiệm trong ngành công nghệ và quản lý, Anh Quân luôn đặt sự hài lòng của người dùng lên hàng đầu, không ngừng cải tiến và đưa ra các chương trình ưu đãi hấp dẫn để thu hút và giữ chân người chơi. Tầm nhìn của anh là xây dựng FM88 trở thành điểm đến đáng tin cậy, mang lại giá trị giải trí đỉnh cao và những trải nghiệm tuyệt vời cho người dùng trên toàn cầu.
 
-.. note::
+Dưới sự lãnh đạo của Anh Quân, FM88 không chỉ khẳng định vị thế tại thị trường Việt Nam mà còn hướng đến mục tiêu mở rộng ra thị trường quốc tế.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 83 Miếu Gò Xoài, Bình Hưng Hoà A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-.. toctree::
+Phone: 0701354886. 
 
-   usage
-   api
+Email: contact@idcredit.org. 
+
+Website: https://idcredit.org/author/anhquan/ 
+
+#ceoanhquan #anhquan #ceoanhquanfm88
